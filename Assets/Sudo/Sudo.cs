@@ -7,6 +7,7 @@ using UnityEngine;
 /// </summary>
 public class Sudo
 {
+    //滴滴滴
     public const int SQR_COUNT = 3;
     public const int COL_COUNT = 9;
     public const int MAX_COUNT = 81;
