@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//这就是一个数独的例子
 public class SudoSample : MonoBehaviour
 {
     private Sudo _Sudo = new Sudo();
