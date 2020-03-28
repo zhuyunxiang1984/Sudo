@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//你好好好吗？
 public class SudoSample : MonoBehaviour
 {
     private Sudo _Sudo = new Sudo();
